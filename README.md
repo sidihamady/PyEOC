@@ -12,9 +12,12 @@ Reference: Sidi Ould Saad Hamady, "PyEOC: a Python Package for Determination of 
 
 PyEOC calculates the electro-optic coefficients of an optical material by implementing the method published by Cuniot-Ponsard et al. in JAP 109, 014107 (2011) [https://doi.org/10.1063/1.3514083](https://doi.org/10.1063/1.3514083)
 
+
 ![Variation of the light intensity with respect to the position in the structure in both TE and TM polarization](poynting.png)  
 
+
 ![Experimental and calculated static reflectivity (top-left), dynamic reflectivity (bottom-left) and the calculated TE derivatives (right)](screenshot.png)  
+
 
 To install PyEOC:  
 just download it from github: [https://github.com/sidihamady/PyEOC](https://github.com/sidihamady/PyEOC)  

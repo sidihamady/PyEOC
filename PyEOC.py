@@ -9,7 +9,7 @@
 # Released under the MIT license (https://opensource.org/licenses/MIT)
 # See Copyright Notice in COPYRIGHT
 # https://github.com/sidihamady/PyEOC
-# Sidi Ould Saad Hamady, "PyEOC: a Python Package for Determination of the Electro-Optic Coefficients of Thin-Film Materials", 2022.
+# Sidi Ould Saad Hamady, "PyEOC: a Python Code for Determining Electro-Optic Coefficients of Thin-Film Materials", 2022.
 
 # -----------------------------------------------------------------------------------------------
 # import S J Byrnes' code -- https://pypi.python.org/pypi/tmm -- https://arxiv.org/abs/1603.02720

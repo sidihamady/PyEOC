@@ -13,11 +13,15 @@ Reference: Sidi Ould Saad Hamady, "PyEOC: a Python Code for Determining Electro-
 PyEOC calculates the electro-optic coefficients of an optical material by implementing the method published by Cuniot-Ponsard et al. in JAP 109, 014107 (2011) [https://doi.org/10.1063/1.3514083](https://doi.org/10.1063/1.3514083).
   
   
+![The standard multilayer structure used to measure the electro-optic (and converse piezoelectric) coefficients of a thin-film material](structure.png)  
+ **Figure 1.** The standard multilayer structure used to measure the electro-optic (and converse piezoelectric) coefficients of a thin-film material. The film to characterize is sandwiched between two thin metallic contacts (*e.g.* gold, platinum): a semi-transparent top contact and a thick bottom contact. The voltage is applied between these two contacts and the reflectance measured with respect to the incident angle Θ.  
+  
 ![Variation of the light intensity with respect to the position in the structure in both TE and TM polarization](poynting.png)  
-  Intensity variation with the position in the Pt/SBN/Pt structure in both TE and TM polarization. The figures on the right represent a zoom in the active layer.  
+ **Figure 2.** Intensity variation with the position in the Pt/SBN/Pt structure in both TE and TM polarization. The figures on the right represent a zoom in the active layer.  
   
 ![Experimental and calculated static reflectivity (top-left), dynamic reflectivity (bottom-left) and the calculated TE derivatives (right)](screenshot.png)  
-  Experimental and theoretical calculated static reflectivity R (top-left), dynamic reflectivity DR (bottom-left) and the calculated TE derivatives (right). The symbols indicate the experimental data curves and the lines indicate the fitted curves.  
+ **Figure 3.** Experimental and theoretical calculated static reflectivity R (top-left), dynamic reflectivity ΔR (bottom-left) and the calculated TE derivatives (right). The symbols indicate the experimental data curves and the lines indicate the fitted curves.  
+  
   
 To install PyEOC:  
 just download it from github: [https://github.com/sidihamady/PyEOC](https://github.com/sidihamady/PyEOC)  

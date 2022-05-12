@@ -6,7 +6,7 @@ Université de Lorraine, France
 sidi.hamady@univ-lorraine.fr  
 Released under the MIT license (https://opensource.org/licenses/MIT)  
 See Copyright Notice in COPYRIGHT  
-Reference: Sidi Ould Saad Hamady, "PyEOC: a Python Code for Determining Electro-Optic Coefficients of Thin-Film Materials", 2022.
+Reference: [Sidi Ould Saad Hamady, "PyEOC: a Python Code for Determining Electro-Optic Coefficients of Thin-Film Materials", arXiv:2205.05157, 2022](https://doi.org/10.48550/arXiv.2205.05157).
 
 ## Presentation and Requirements
 
